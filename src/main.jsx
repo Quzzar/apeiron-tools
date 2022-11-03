@@ -59,7 +59,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
               <Text pr='sm'>
                 <Planet size={40} />
               </Text>
-              <Text weight={700} style={{ fontSize: '2.1em', whiteSpace: 'nowrap' }}>Space Campaign Calculations</Text>
+              <Text weight={700} style={{ fontSize: '2.1em', whiteSpace: 'nowrap' }}>Apeiron Tools</Text>
             </Center>
 
           </Header>
